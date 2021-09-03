@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 there was a crocodile and a monkey living in a forest.
 
 they were very good friends
 
+=======
+my new file 
+>>>>>>> 397f25cd73ec643c67f8607845eef123413196a5
